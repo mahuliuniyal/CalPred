@@ -50,5 +50,4 @@ This project was developed entirely in **Google Colab**, with a focus on easy de
 ## 🙋 Author
 **Mahuli Uniyal**
 
-## 📜 License
-This project is licensed under the MIT License.
+
